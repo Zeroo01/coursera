@@ -12,7 +12,7 @@
 .row > div {
    position: relative;
    background-color: gray;
-   margin: 15px;
+   /*margin: 15px;*/
 }
 
 h1{

@@ -5,7 +5,6 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-
 /** HEADER **/
 #header-nav {
     background-color: #caebf0;
@@ -36,6 +35,10 @@ body {
     margin-top: 0;
     margin-bottom: 0;
     line-height: .75;
+}
+
+.navbar-brand a:link{
+    text-decoration: none;
 }
 
 .navbar-brand p{ /* five Star certification (Image)*/
